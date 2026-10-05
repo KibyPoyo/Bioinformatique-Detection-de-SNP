@@ -1,0 +1,7 @@
+/backups
+/utilitaires
+/res
+data/salmonella-enterica.reads.fna
+data/salmonella-enterica-variant.reads.fna
+*.zip
+rapport.tex
